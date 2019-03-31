@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149595168712",
+    "firebase_url": "https://trashcashcollector.firebaseio.com",
+    "project_id": "trashcashcollector",
+    "storage_bucket": "trashcashcollector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149595168712:android:89d51423064b866f",
+        "android_client_info": {
+          "package_name": "com.teamtrashcash.trashcashcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149595168712-d3bihqje0ond7ln7opacpoq38q881oaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamtrashcash.trashcashcollector",
+            "certificate_hash": "27d0e37dbaf302fb4f830a50f081e0551177e9fb"
+          }
+        },
+        {
+          "client_id": "149595168712-5a9lp5p2dqq7pe5hqt77premgv60habu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOy8cd4b-giJaZt3UmX_TH0bVWzDyzXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149595168712-5a9lp5p2dqq7pe5hqt77premgv60habu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
